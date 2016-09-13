@@ -1,0 +1,29 @@
+ITPUG (Italian PostgreSQL Users’ Group)
+è una associazione senza scopo di lucro nata nel 2007 dallo sforzo congiunto di alcuni appassionati di PostgreSQL, il piu’ avanzato database Open Source al mondo, che avevano organizzato il primo PGDay italiano. ITPUG promuove l’utilizzo di
+PostgreSQL su territorio nazionale organizzando eventi, primo fra tutti il PGDay.IT (l’annuale conferenza a livello nazionale), partecipando attivamente alla traduzione
+della documentazione, facendo promozione e diffondendo notizie e conoscenza.
+L’associazione è ben nota nel panorama internazionale.
+
+Perchè associarsi?
+
+ITPUG è un'associazione che si auto-sostiene: il lavoro dei propri soci ha permesso ad ITPUG di affermarsi come la principale community nazionale e gli ha fatto raggiungere importanti traguardi come l'organizzazione del primo PGDay Europeo.
+Essendo basata sul lavoro dei propri soci, l'accrescimento culturale e qualitativo dell'associazione non può che essere frutto delle rispettive competenze e capacità dei soci stessi.
+Associandoti potrai:
+
+* far crescere qualitativamente e quantitamente ITPUG;
+* arricchire il bagaglio culturale e di competenza dell'associazione;
+* restare sempre aggiornato sulle ultime novità relative a PostgreSQL;
+* scambiare esperienze e conoscenze con professionisti appassionati;
+* dare e ricevere aiuto in una community di  di alta qualità.
+
+Aiuta l'associazione
+
+Chiunque può contribuire a ITPUG con una donazione. Puoi effettuarla attraverso il sito web utilizzando la carta di credito oppure il tuo account Paypal. Grazie!
+
+Quanto costa associarsi?
+
+Il costo della tessera annuale è di 10 euro vale per un intero anno solare.
+
+Che vantaggi ha un socio ITPUG?
+
+ti verrà fornito un alias di posta elettronica @itpug.org che potrai usare per identificarti nella community internazionale come un membro di ITPUG. Potrai accedere ad una mailing list dedicata ai soci di ITPUG, dove potreai conoscere altri appassionati di PostgreSQL, scambiare opinioni, esperienze e aiuto sul database open-source più avanzato del mondo.Avrai accesso al nostro sistema Redmine per la gestione di ITPUG, e potrai così contribuire, se lo vorrai, alla vita dell'Associazione e alle sue iniziative. Avrai inoltre diritto a degli sconti per la partecipazione agli eventi a pagamento (gli sconti sono variabili e dipendono in base all'evento).
